@@ -19,7 +19,7 @@ sayHiToGrandma(string){
     case "I love you, Grandma" : return "I love you too"
     case : string === shout(string): return "YES INDEED"
     case : string === whisper(string): return "I can't hear you"
-    default:return;
-      
+    default:return
+
   }
   }
